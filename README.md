@@ -26,7 +26,7 @@
     <b><td colspan="6"><b>Programming languages</b></td>
   </tr>
   <tr>
-    <td style="width:17%; height:17%"><img src=https://raw.githubusercontent.com/isocpp/logos/master/cpp_logo.png ></td>
+    <td style="width:17%; height:17%"><img src= https://raw.githubusercontent.com/isocpp/logos/master/cpp_logo.png ></td>
     <td style="width:17%; height:17%"><img src=https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/121px-Python-logo-notext.svg.png></td>
     <td style="width:17%; height:17%"><img src=https://upload.wikimedia.org/wikipedia/en/thumb/3/30/Java_programming_language_logo.svg/121px-Java_programming_language_logo.svg.png></td>
     <td style="width:17%; height:17%">COBOL (can't find it's logo)</td>
@@ -38,7 +38,7 @@
   </tr>
   <tr>
     <td style="width:17%; height:17%"><img src="https://www.sfml-dev.org/images/logo.png"></td>
-    <td style="width:17%; height:17%">PyQt5</td>
+    <td style="width:17%; height:17%"></td>
     <td style="width:17%; height:17%"></td>
     <td style="width:17%; height:17%"></td>
     <td style="width:17%; height:17%"></td>
@@ -57,9 +57,16 @@
     <td style="width:17%; height:17%"></td>
     <td style="width:17%; height:17%"></td>
   </tr>
-  
+| 
+
 </tbody>
 </table>
 </div>
+
+
+### Programming languages
+
+| ![]("https://raw.githubusercontent.com/isocpp/logos/master/cpp_logo.png" =25%x) | b | c | d | e | f |
+|---|---|---|---|---|---|
 
 > **Note:** I'm still improving and learning the aforementioned technologies. Feel free to suggest me any other stuff that you think I should learn.
