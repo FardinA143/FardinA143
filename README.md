@@ -1,7 +1,9 @@
 <br>
-
+<div align="center">
+  
 [![Data](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=FardinA143&theme=github_dark)](https://github.com/FardinA143)
 <br>
+</div>
 
 # Hi there <img src=https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif width=4%>  !
 
@@ -16,103 +18,48 @@
 
 <br>
 
-
 ## Learnt technologies
-
+<div align="center">
 <table>
 <tbody>
   <tr>
-    <b><td colspan="6">Programming languages</td>
+    <b><td colspan="6"><b>Programming languages</b></td>
   </tr>
   <tr>
-    <td>C++</td>
-    <td>Python</td>
-    <td>Java</td>
-    <td>Bash</td>
-    <td>HTML</td>
-    <td>CSS</td>
+    <td style="width:17%; height:17%"><img src=https://raw.githubusercontent.com/isocpp/logos/master/cpp_logo.png ></td>
+    <td style="width:17%; height:17%"><img src=https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/121px-Python-logo-notext.svg.png></td>
+    <td style="width:17%; height:17%"><img src=https://upload.wikimedia.org/wikipedia/en/thumb/3/30/Java_programming_language_logo.svg/121px-Java_programming_language_logo.svg.png></td>
+    <td style="width:17%; height:17%">COBOL (can't find it's logo)</td>
+    <td style="width:17%; height:17%"><img src="https://www.w3.org/html/logo/downloads/HTML5_Logo.svg"></td>
+    <td style="width:17%; height:17%"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/120px-CSS3_logo_and_wordmark.svg.png"></td>
+  </tr>
+    <tr>
+    <td colspan="6"><b>Libraries</b></td>
   </tr>
   <tr>
-    <td>SQL</td>
-    <td>COBOL</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-  </tr>
-  <tr>
-    <td colspan="6">Libraries</td>
-  </tr>
-  <tr>
-    <td>SFML</td>
-    <td>PyQt5</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td style="width:17%; height:17%"><img src="https://www.sfml-dev.org/images/logo.png"></td>
+    <td style="width:17%; height:17%">PyQt5</td>
+    <td style="width:17%; height:17%"></td>
+    <td style="width:17%; height:17%"></td>
+    <td style="width:17%; height:17%"></td>
+    <td style="width:17%; height:17%"></td>
   </tr>
  
   <tr>
-    <td colspan="6">Applications & Platforms</td>
+    <td colspan="6"><b>Applications & Platforms</b></td>
   </tr>
   <tr>
-    <td>VSCode</td>
-    <td>Cloudflare</td>
-    <td>Azure</td>
-    <td>Docker</td>
-    <td></td>
-    <td></td>
+    <td style="width:17%; height:17%"><img src=https://code.visualstudio.com/assets/images/code-stable.png></td>
+    <td style="width:17%; height:17%"><img src=https://github.com/odb/official-bash-logo/raw/master/assets/Logos/Icons/SVG/128x128.svg ></td>
+    <td style="width:17%; height:17%"><img src=https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Cloudflare_Logo.svg/512px-Cloudflare_Logo.svg.png></td>
+    <td style="width:17%; height:17%"><img src=https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Microsoft_Azure.svg/150px-Microsoft_Azure.svg.png><br><p align=center>Azure</td>
+    <td style="width:17%; height:17%"><img src=https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Docker_%28container_engine%29_logo.png/280px-Docker_%28container_engine%29_logo.png></td>
+    <td style="width:17%; height:17%"></td>
+    <td style="width:17%; height:17%"></td>
   </tr>
-  <tr>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-  </tr>
+  
 </tbody>
 </table>
+</div>
 
 > **Note:** I'm still improving and learning the aforementioned technologies. Feel free to suggest me any other stuff that you think I should learn.
-
-<!--
-## KaTeX
-
-You can render LaTeX mathematical expressions using [KaTeX](https://khan.github.io/KaTeX/):
-
-The *Gamma function* satisfying $\Gamma(n) = (n-1)!\quad\forall n\in\mathbb N$ is via the Euler integral
-
-$$
-\Gamma(z) = \int_0^\infty t^{z-1}e^{-t}dt\,.
-$$
-
-> You can find more information about **LaTeX** mathematical expressions [here](http://meta.math.stackexchange.com/questions/5020/mathjax-basic-tutorial-and-quick-reference).
--->
-<!--
-## UML diagrams
-
-You can render UML diagrams using [Mermaid](https://mermaidjs.github.io/). For example, this will produce a sequence diagram:
-
-```mermaid
-sequenceDiagram
-Alice ->> Bob: Hello Bob, how are you?
-Bob->John: How about you John?
-Bob--x Alice: I am good thanks!
-Bob-x John: I am good thanks!
-Note right of John: Bob thinks a long<br/>long time, so long<br/>that the text does<br/>not fit on a row.
-
-Bob->Alice: Checking with John...
-Alice->John: Yes... John, how are you?
-```
-
-And this will produce a flow chart:
-
-```mermaid
-graph LR
-A[Square Rect] -- Link text -- B((Circle))
-A -- C(Round Rect)
-B -> D{Rhombus}
-C -> D
-```
--->
