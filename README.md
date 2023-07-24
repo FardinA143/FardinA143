@@ -8,7 +8,7 @@
 # Hi there <img src=https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif width=4%>  !
 
 - 👋 Hi, I’m Fardin, a Computer Science & Engineering student at [@UPC](https://github.com/UPC)
-- 💼 Working [@TdD-Inc](https://github.com/TdD-Inc), an organization about knowledge development with friends.
+- 💼 Working [@Tekhmos-Corp](https://github.com/Tekhmos-Corp), an organization about knowledge development with friends.
 - 📖 Currently in the process of learning programming languages, usage of various libraries and development apps
 - 📫 To reach me, you can use the following links:
 	- E-mail: contact@fardinarafat.tk
