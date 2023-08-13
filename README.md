@@ -11,7 +11,7 @@
 - 💼 Working [@Tekhmos-Corp](https://github.com/Tekhmos-Corp), an organization about knowledge development with friends.
 - 📖 Currently in the process of learning programming languages, usage of various libraries and development apps
 - 📫 To reach me, you can use the following links:
-	- E-mail: contact@fardinarafat.tk
+	- E-mail: fardin@tekhmos.com
 	-  GitHub: [@FardinA143](https://github.com/FardinA143)
 	- LinkedIn: [LinkedIn/FardinA143](https://linkedin.com/in/FardinA143)
 	- Twitter: [@hacker143ard](https://twitter.com/hacker143ard)
