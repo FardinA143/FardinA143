@@ -35,6 +35,8 @@
 | <img src=https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/240px-Visual_Studio_Code_1.35_icon.svg.png> | <img src=https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Gnu-bash-logo.svg/200px-Gnu-bash-logo.svg.png > | <img src=https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Cloudflare_Logo.svg/512px-Cloudflare_Logo.svg.png width=75%> | <img src=https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Microsoft_Azure.svg/150px-Microsoft_Azure.svg.png><br>Azure | <img src=https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Docker_%28container_engine%29_logo.png/280px-Docker_%28container_engine%29_logo.png> | <img src=https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Debian-OpenLogo.svg/363px-Debian-OpenLogo.svg.png width=50%>
 |---|---|---|---|---|---|
 
+![Animación](https://github.com/FardinA143/FardinA143/blob/output/github-contribution-grid-snake2.svg)
+
 
 
 
