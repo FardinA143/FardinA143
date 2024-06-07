@@ -5,7 +5,7 @@
 <br>
 </div>
 
-# Hi there <img src=https://cdn.betterttv.net/emote/656a01b4459bcb974d026ed1/3x.webp width=4%>  !
+# Hi there <img src=https://cdn.betterttv.net/emote/656a01b4459bcb974d026ed1/3x.webp width=15%>  !
 
 - 👋 Hi, I’m Fardin, a Computer Science & Engineering student at [@UPC](https://github.com/UPC)
 - 💼 Working [@Tekhmos-Corp](https://github.com/Tekhmos-Corp), an organization about knowledge development with friends.
