@@ -44,4 +44,4 @@
 > **Note:** I'm still improving and learning the aforementioned technologies. Feel free to suggest me any other stuff that you think I should learn.
 
 ```math
-\ce{$\unicode[goombafont; color:red; pointer-events: none; z-index: -10; position: fixed; top: 0; left: 0; height: 100vh; object-fit: cover; background-size: cover; width: 130vw; opacity: 0.5; background: url('https://github.com/FardinA143/FardinA143/blob/main/wall.jpg?raw=true');]{x0000}$}
+\ce{$\unicode[goombafont; color:red; pointer-events: none; z-index: -10; position: fixed; top: 0; left: 0; height: 100vh; object-fit: cover; background-size: cover; width: 130vw; opacity: 0.5; background: url('https://github.com/FardinA143/FardinA143/blob/main/wall2.jpg?raw=true');]{x0000}$}
