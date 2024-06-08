@@ -43,5 +43,3 @@
 
 > **Note:** I'm still improving and learning the aforementioned technologies. Feel free to suggest me any other stuff that you think I should learn.
 
-```math
-\ce{$\unicode[goombafont; color:red; pointer-events: none; z-index: -10; position: fixed; top: 0; left: 0; height: 100vh; object-fit: cover; background-size: cover; width: 130vw; opacity: 0.5; background: url('https://github.com/FardinA143/FardinA143/blob/739d42c7be676da7037e1f6efd668fffe523bf62/wallpapersden.com_amazing-river-photography-hd-landscape_3840x2160.jpg?raw=true');]{x0000}$}
