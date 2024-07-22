@@ -38,7 +38,7 @@
 <br>
 <div align="right">
 
-![Views](https://img.shields.io/endpoint?url=https%3A%2F%2Fhits.dwyl.com%2FFardinA143%2FFardinA143.json&style=for-the-badge&label=Views&labelColor=black&color=blue)
+![Views](https://hits.dwyl.com/FardinA143/FardinA143.svg?style=flat)
 </div>
 
 
