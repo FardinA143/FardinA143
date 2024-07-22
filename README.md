@@ -36,8 +36,9 @@
 > **Note:** This list is not exhaustive and I am always looking to learn new technologies and tools. It may not be up-to-date, so feel free to ask me about my current stack.
 
 <br>
+<div align="right">
 
 ![Views](https://img.shields.io/endpoint?url=https%3A%2F%2Fhits.dwyl.com%2FFardinA143%2FFardinA143.json&style=for-the-badge&label=Views&labelColor=black&color=blue)
-
+</div>
 
 
