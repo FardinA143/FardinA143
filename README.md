@@ -17,7 +17,8 @@
 <br>
 
 ## Current stack
-
+<div align="center">
+ 
 | Category | Stack | 
 |--:|:---:|
 |Programming Languages|![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffffff) |
@@ -30,6 +31,7 @@
 |IDEs and Tools| ![VSCode](https://img.shields.io/badge/Visual_Studio_Code-0078d7?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows_Terminal-4D4D4D?style=for-the-badge&logo=windows-terminal&logoColor=white) |
 |Cloud| ![Azure](https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white) |
 |Documentation| ![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white) ![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white) ![Doxygen](https://img.shields.io/badge/Doxygen-000000?style=for-the-badge&logo=doxygen&logoColor=white) |
+</div>
 
 > **Note:** This list is not exhaustive and I am always looking to learn new technologies and tools. It may not be up-to-date, so feel free to ask me about my current stack.
 
