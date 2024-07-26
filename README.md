@@ -8,7 +8,7 @@
 # Hi there <img src=https://cdn.betterttv.net/emote/656a01b4459bcb974d026ed1/3x.webp width=15%>  !
 
 - 👋 Hi, I’m Fardin, a Computer Science & Engineering student at [@UPC](https://github.com/UPC)
-- 💼 Developing stuff under [@Tekhmos-Corp](https://github.com/Tekhmos-Corp).
+- 💼 Developing stuff under [@Tekhmos-Corp](https://github.com/Tekhmos-Corp), alongside college friends
 - 📖 Currently in the process of learning different programming languages, tech stacks, apps and concepts.
 - 📫 You can reach me using one of the methods below:
 	- E-mail: fardin@tekhmos.com
