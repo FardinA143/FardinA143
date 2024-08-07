@@ -10,6 +10,11 @@
 - 👋 Hi, I’m Fardin, a Computer Science & Engineering student at [@UPC](https://github.com/UPC)
 - 💼 Developing stuff under [@Tekhmos-Corp](https://github.com/Tekhmos-Corp), alongside college friends
 - 📖 Currently in the process of learning different programming languages, tech stacks, apps and concepts.
+  	- Rust
+  	- R / NR DBs
+  	- Cloud platforms
+  	- Software Testing (UTs, FTs, integration, etc)
+  	- Containerization
 - 📫 You can reach me using one of the methods below:
 	- E-mail: fardin@tekhmos.com
 	-  GitHub: [@FardinA143](https://github.com/FardinA143)
