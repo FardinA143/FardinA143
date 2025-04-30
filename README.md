@@ -5,7 +5,7 @@
 <br>
 </div>
 
-# Hi there <img src=https://cdn.betterttv.net/emote/656a01b4459bcb974d026ed1/3x.webp width=15%>  !
+# Hi there<!-- <img src=https://cdn.betterttv.net/emote/656a01b4459bcb974d026ed1/3x.webp width=15%>  -->!
 
 - 👋 Hi, I’m Fardin, a Computer Science & Engineering student at [@UPC](https://github.com/UPC)
 - 💼 Developing stuff under [@Tekhmos-Corp](https://github.com/Tekhmos-Corp), alongside college friends
@@ -16,7 +16,7 @@
   	- Software Testing (UTs, FTs, integration, etc)
   	- Containerization
 - 📫 You can reach me using one of the methods below:
-	- E-mail: fardin@tekhmos.com
+	- E-mail: fardin@tekhmos.com or hello@fardin.me
 	-  GitHub: [@FardinA143](https://github.com/FardinA143)
 	- LinkedIn: [LinkedIn/FardinA143](https://linkedin.com/in/FardinA143)
 <br>
